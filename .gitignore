@@ -1,0 +1,17 @@
+config
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+node_modules
+entry/js/*.js
+entry/*.html
+static/js/*.js
+static/*.html
+.idea
+.project
+npm-debug.log
+
